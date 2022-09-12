@@ -1,0 +1,9 @@
+C:\mywork\unimoni\unimoni-prototype\unimoni-tools\unimoni-dev-stack																							
+├── 01_install_wsl2.bat																							
+├── 02_steup_wsl2.bat																							
+├── README.md																							
+└── powershell																							
+    ├── 01_install_wsl2.ps1																							
+    ├── 02_steup_wsl2.ps1																							
+    ├── 02_steup_wsl2_root.sh																							
+    └── 02_steup_wsl2_unimoni.sh																							
